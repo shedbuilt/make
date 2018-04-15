@@ -1,5 +1,5 @@
 NAME=make
 VERSION=4.2.1
-REVISION=3
+REVISION=1
 SRC=http://ftp.gnu.org/gnu/make/make-4.2.1.tar.bz2
 SRCMD5=15b012617e7c44c0ed482721629577ac
